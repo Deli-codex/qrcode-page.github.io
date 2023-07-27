@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%) ;
+}
+
+main{
+    background-color:  hsl(0, 0%, 100%);
+    width: 50vh ;
+    height: 75vh;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.image{
+    width: 280px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    padding: 15px;
+    font-weight: 400, 700;
+}
+
+p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 18px;
+    margin-top: -10px;
+    color:hsl(220, 15%, 55%);
+}
+
+ 
